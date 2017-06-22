@@ -8,7 +8,7 @@ public class CardReader {
 	String myString;
 	CardReader card = new CardReader();
 
-	
+	//comment
 	
 	public void go() {
 		System.out.print("ccc");
